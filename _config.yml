@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Halvi.github.io
+title: Shreekar Halvi
+email: shreekarhalvi@gmail.com
+author: Shreekar Halvi
+description: Musings of a 13 year old.
+paginate: 3
+google_analytics: 
