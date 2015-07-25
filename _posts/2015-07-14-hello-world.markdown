@@ -1,8 +1,6 @@
 ---
-published: true
-title: Hello world
+published: false
+title: Hello world !
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/Halvi/Halvi.github.io](http://github.com/Halvi/Halvi.github.io). Be nice. Give credit. Share, don't steal :)
-
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+This is a blog of a 14 yer old kid interested in mathematics,computer science, physics and a person who loves coffee  and food .Right now i am trying to learn programming. i have a brother who is interested in startups. you can check his product right here {Contactz} {www.contactz.co}. do download it when it is launched. it aims to disrupt the contact industry by doing every *small* thing right     
